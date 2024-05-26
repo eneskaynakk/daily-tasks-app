@@ -1,0 +1,7 @@
+{
+  "name": "myt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
